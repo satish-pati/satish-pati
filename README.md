@@ -85,6 +85,5 @@
 
 - 📧 Email: [satishpati2006@gmail.com](mailto:satishpati2006@gmail.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/satish-pati-b01701320/](https://www.linkedin.com/in/satish-pati-b01701320/)
----
 
 
