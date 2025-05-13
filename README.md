@@ -84,14 +84,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:satishpati2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50px" />
-  <br>
-  <strong>Thanks for stopping by!</strong> &nbsp;💻✨ <br> 
-</p>
+
