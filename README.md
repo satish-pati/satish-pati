@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">Your Name</span>!</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">Satish</span>!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Passionate+Developer;🤖+ML+%26+AI+Enthusiast;🌐+Web+%26+App+Developer;📚+Always+Learning+Something+New!" alt="Typing SVG" />
