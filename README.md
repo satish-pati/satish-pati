@@ -8,15 +8,13 @@
 
 ## 🚀 About Me
 
-🎯 I’m a developer who thrives at the intersection of innovation and impact.  
-From automating workflows to crafting engaging user experiences — I love turning ideas into working software.
+🎯I'm a passionate programmer and developer with interests in Machine Learning, Web Development, and Android App Development. I enjoy building projects that solve real-world problems and exploring new technologies.
 
 🔍 **Interests**  
 - 🤖 Machine Learning & Artificial Intelligence  
 - 🌐 Full Stack Web Development  
 - 📱 Android App Development  
 
-💡 I enjoy solving real-world problems and am always curious to explore new technologies and ideas.  
 🛠️ Currently building projects that blend functionality, performance, and design.
 
 ---
@@ -88,7 +86,6 @@ From automating workflows to crafting engaging user experiences — I love turni
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
@@ -96,5 +93,5 @@ From automating workflows to crafting engaging user experiences — I love turni
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50px" />
   <br>
-  <strong>Thanks for stopping by!</strong> &nbsp;💻✨ <br> Let's build something awesome together!
+  <strong>Thanks for stopping by!</strong> &nbsp;💻✨ <br> 
 </p>
