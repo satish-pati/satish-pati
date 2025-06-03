@@ -15,7 +15,6 @@
 - 🌐 Full Stack Web Development  
 - 📱 Android App Development  
 
-🛠️ Currently building projects that blend functionality, performance, and design.
 
 ---
 
