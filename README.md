@@ -69,16 +69,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish-pati&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish-pati&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-
-</p>
 
 ---
 
