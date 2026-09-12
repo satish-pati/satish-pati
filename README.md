@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎯I'm a passionate programmer and developer with interests in Machine Learning, Web Development, and Android App Development. I enjoy building projects that solve real-world problems and exploring new technologies.
+🎯I'm a passionate programmer and developer with interests in Artificial intelligence & Machine Learning, Web Development, and Android App Development. I enjoy building projects that solve real-world problems and exploring new technologies.
 
 🔍 **Interests**  
 - 🤖 Machine Learning & Artificial Intelligence  
